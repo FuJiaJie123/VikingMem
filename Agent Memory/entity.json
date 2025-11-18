@@ -1,0 +1,15 @@
+{
+  "entity_id": "2509102214",
+  "entity_content": {
+    "tool_name": "Drawing Helper",
+    "description": "Used for drawing characters, landscapes, etc.",
+    "tool_call_times": 148,
+    "success_rate":0.96,
+    "avg_token_usage": 149,
+    "avg_time_cost_sec": 48,
+    "suitable_for": "Drawing portraits and landscapes, especially when it comes to rendering and refining details.",
+    "failure_cases": "The generated image exceeds 5 MB, thus the outcomes is abnormal.",
+    "suggestions": "Invoke this when rendering detailed graphics"
+  },
+  "last_updated":"2025-11-15 13:14:35"
+}

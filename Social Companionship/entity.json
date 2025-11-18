@@ -1,0 +1,15 @@
+{
+  "entity_id": "2510112312",
+  "entity_content": {
+    "basic information": {
+      "name":"Alice",
+      "age": 24,
+      "pets": "one dog named Max"
+    },
+    "interests and hobbies": {
+      "sports": ["football (very like)"],
+      "music": ["country music(passionate love)"]
+    }
+  },
+  "last_updated":"2025-11-16 14:23:42"
+}
