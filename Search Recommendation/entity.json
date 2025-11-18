@@ -1,0 +1,23 @@
+{
+  "entity_id": "2301221423",
+  "entity_content": {
+    "profile_level": "Medium_Detail",
+    "total_rec_interactions": 68,
+    "strong_affinity_topics": [
+      "Space Opera",
+      "Historical Biographies",
+      "Abstract Art"
+    ],
+    "weak_avoid_topics": [
+      "Gore and Horror",
+      "Political Commentary",
+      "Cooking tutorials"
+    ],
+    "preferred_format": "Long-form articles and documentaries",
+    "receptivity_score": 0.75,
+    "interaction_frequency": "Weekly_Engagement",
+    "current_micro_trend": "Recently showing interest in 'Renaissance Architecture' (last 5 interactions).",
+    "retrieval_strategy_suggestion": "Prioritize narrative depth over light entertainment; use long-form content when possible."
+  },
+  "last_updated": "2025-09-28 13:25:10"
+}

@@ -1,0 +1,22 @@
+{
+  "entity_id": "251110925",
+  "entity_content": {
+    "week_covered": "2025-11-09 to 2025-11-15",
+    "related_meetings": [
+      "2025111214051",
+      "2025111113021"
+    ],
+    "week_summary": [
+      "The initial design draft of the A/B Test module has been completed and passed internal review.",
+      "Participated in the second phase launch meeting of the 'Starry Sky' project, confirming the goal of increasing user activity by 10% and the launch plan for December 18th. (Based on core decision M-20251112-001)"
+    ],
+    "next_week_plan": [
+      "Follow up on the progress of Li Ming's technical implementation plan (expected to be completed next Friday).",
+      "Liaise with Wang Fang to assist in confirming the marketing budget."
+    ],
+    "coordination_needed": [
+      "R&D Li Ming said manpower is slightly tight, and it may be necessary to coordinate a part-time front-end engineer to ensure on-time delivery of the A/B Test module."
+    ]
+  },
+  "last_updated": "2025-11-12 14:05:23"
+}

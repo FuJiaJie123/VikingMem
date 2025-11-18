@@ -1,0 +1,16 @@
+{
+  "event_id": "2025111214051",
+  "event_content": {
+    "meeting_topic": "\"Starry Sky\" Project Phase II Launch Meeting",
+    "meeting_time": "2025-11-12T14:00:00+08:00",
+    "attendees": [
+      "Qiang Zhang", "Ming LI"
+    ],
+    "key_decisions": [
+      "Second-phase goal confirmed: Increase user activity by 10%.",
+      "Prioritized features identified: A/B Test module design must be completed within one week.",
+      "Product launch date set for December 18th."
+    ]
+  },
+  "event_time": "2025-11-12 14:05:23"
+}

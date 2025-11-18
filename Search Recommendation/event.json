@@ -1,0 +1,21 @@
+{
+  "event_id": "25092813251",
+  "event_content": {
+    "interaction_type": "recommendation_dialogue",
+    "session_topic": "Seeking an engaging TV series for the weekend.",
+    "rec_items_presented": [
+      "The Solar Frontier (Sci-Fi, 2024)",
+      "Shadow Realm Chronicles (Fantasy, 2023)",
+      "The Unseen Architects (Historical Docu, 2022)"
+    ],
+    "user_explicit_response": "I'll try 'The Solar Frontier'. That genre sounds perfect. Can you tell me the main actors?",
+    "feedback_sentiment": "Positive_Selection",
+    "implicit_signal": {
+      "time_to_response_sec": 5.2,
+      "follow_up_questions": 1,
+      "rejection_rank": "None"
+    },
+    "thoughts": "Selection was quick and decisive. User confirms affinity for 'Space Opera' subgenre and seeks details on cast."
+  },
+  "event_time": "2025-09-28 13:25:10"
+}
